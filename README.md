@@ -1,4 +1,4 @@
-# Chart Exporter
+# Excel Chart Exporter
 **Excel Add-In | Automates chart export from Excel into PowerPoint**
 
 ---
