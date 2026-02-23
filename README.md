@@ -29,6 +29,7 @@ For teams that produce recurring reports with Excel charts, this eliminates one 
 - **Dual slide layout support** — charts can be assigned to different slide layouts (including a specialized "Resolution Scaling" layout) from within the same workflow, with no extra steps
 - **Smart destination detection** — if multiple PowerPoint files are open at once, the tool automatically asks which one to target instead of guessing
 - **Pixel-perfect placement** — charts are automatically resized and repositioned to fit the correct slide placeholder exactly, so slides look publication-ready with no manual adjustments
+- **Template-based system** — works in conjunction with a custom-built PowerPoint template, creating a complete and repeatable end-to-end reporting workflow
 
 ---
 
