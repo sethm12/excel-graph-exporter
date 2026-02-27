@@ -1,11 +1,11 @@
-# Graph Exporter
+# Excel Graph Exporter
 **Excel Add-In | Automates graph export from Excel into PowerPoint**
 
 ---
 
 ## Demo
 
-[![Graph Exporter Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Graph Exporter Demo](https://img.youtube.com/vi/oOVv30Szdl8/maxresdefault.jpg)](https://www.youtube.com/watch?v=oOVv30Szdl8)
 
 > *Click the thumbnail to watch the full demo on YouTube.*
 
